@@ -14,7 +14,7 @@ header {
 
 .gradient-title {
     background: linear-gradient(to right, #ff7e5f, #feb47b);
-    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
     font-size: 2rem;
     margin: 0;
