@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fourList</title>
+    <link rel="stylesheet" href="css/resolutions.css">
+</head>
+<body>
+    <header>
+        <h1 class="gradient-title">大學四大清單</h1>
+        <h3 class="gradient-title">這是我在大學最後一年希望能夠完成的四大目標<br>
+                                    每張卡片都可以點開，任意點擊空白處可以關閉</h3>
+        <button class="back-button" onclick="window.location.href='index.html'">返回首頁</button>
+        <button class="back-button" onclick="window.location.href='myplan.html'">始於足下</button>
+    </header>
+    <main>
+        <div class="grid-container">
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>訓練專屬自己的繪圖模型</h2>
+                        <img src="images\SD.png" alt="photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>Stable Diffusion</h2>
+                        <p>當前最廣泛使用的開源人工智慧繪畫模型就是基於Stable Diffusion這個模型<br>
+                            我希望自己能夠從頭開始訓練一個自己的繪畫模型，並且能夠將其應用在各種不同的領域。<br>
+                            為了實踐這個目標，我需要找尋大量的訓練集及學習相關的技術。<br>
+                            這個目標的完成將會是我在大學期間最大的成就之一。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>通過日語檢定</h2>
+                        <img src="images\JLPT.png" alt="photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>培養第二語言</h2>
+                        <p>我曾在多年前學習過日語，但經過這麼久目前連五十音都不太記得。<br>
+                            所以我希望在大學最後的一年間能夠至少通過N2，至少能夠取得去日本留學的資格。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>考上研究所</h2>
+                        <img src="images\TKB.jpg" alt="photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>給自己更多的機會</h2>
+                        <p>我在長庚這幾年間培養了不少技能，但我希望自己能夠有更廣闊的視野。<br>
+                            因此我希望自己能夠延續所學的東西，在更多環境發揮自己的潛力。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>學習做菜</h2>
+                        <img src="images\cook.jpg" alt="photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>自己的菜自己煮</h2>
+                        <p>自己煮菜不僅可以容易掌控熱量攝取也可以或多或少省一些錢。<br>
+                            我需要大量練習做菜的技巧才可以達到我的目標。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="src/resulutions.js"></script>
+</body>
+
+<footer>
+    <div class="footer-content">
+        <h2 class="gradient-title">Contact Me</h2>
+        <a href="mailto:acent70@gmail.com">
+            <img src="images\email.jpg" alt="Email icon">
+        </a>
+        <a href="https://www.facebook.com/lynne.liu/" target="_blank">
+            <img src="images\fb.png" alt="Facebook icon">
+        </a>
+    </div>
+</footer>
+</html>

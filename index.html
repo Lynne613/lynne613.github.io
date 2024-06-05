@@ -1,13 +1,93 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="zh-TW">
 <head>
-    <title>Test Web Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self Intrduction Website</title>
+    <link rel="stylesheet" href="css/index.css">
 </head>
-<link rel="stylesheet" href="css/style.css">
-
 <body>
-    <h1>Welcome to My Test Web Page</h1>
-    <p>This is a test web page. Feel free to modify it as needed.</p>
+    <header>
+        <h1 class="gradient-title">我的個人網頁</h1>
+        <nav>
+            <ul class="nav-list">
+                <li><a href="resolutions.html">四件大事清單</a></li>
+                <li><a href="myplan.html">始於足下</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="intro" class="fade-in">
+            <h2 class="gradient-title">About Me</h2>
+            <img src="images/Person_icon_BLACK-01.svg.png" alt="my photo">
+            <p>我是劉振宇，一名資工系的學生。屏東出生，成長於高雄，當前於長庚大學就讀。<br>
+                本學期任職網頁程式助教，目前在校內資訊中心擔任網路維修人員的職務，並同時在校內國際事務處打工。<br>
+                暑期實習及畢業專題主要負責網頁後端的開發及維護，對資料庫管理系統有一定的經驗。<br>
+                之前曾修習過諮商心理學相關課程，對於心理學及諮商輔導有相關知識。<br>
+                擅長的能力有網頁前後端開發、資料庫管理、Python、C++及心理學知識等。<br>
+                未來希望能夠將資工與心理學結合，開發出更多有助於人們生活的應用程式。
+            </p>
+        </section>
+        <section id="skills" class="fade-in">
+            <h2 class="gradient-title">技能</h2>
+            <ul>
+                <li>SQL<img src="images\SQL.png" alt="my photo"></li>
+                <li>PHP<img src="images\PHP-logo.svg.png" alt="my photo"></li>
+                <li>Python<img src="images\Python.jpg" alt="my photo"></li>
+                <li>C++<img src="images\C++.png" alt="my photo"></li>
+                <li>HTML<img src="images\html.png" alt="my photo"></li>
+                <li>CSS<img src="images\CSS.png" alt="my photo"></li>
+                <li>JavaScript<img src="images\JS.png" alt="my photo"></li>
+            </ul>            
+        </section>
+
+        <section id="projects" class="fade-in">
+            <h2 class="gradient-title">畢業專題</h2>
+            <ul>
+                <li>專題名稱：自動化量子啟發式退火器</li>
+                <li>實作內容: 利用數位量子退火技術計算NP-Hard 問題。</li>
+                <li>使用技術: Dwave CPU Nealer、OPtuna。</li>
+            </ul>
+        </section>
+
+        <section id="SummerExp" class="fade-in">
+            <h2 class="gradient-title">暑期實習</h2>
+            <ul>
+                <li>工作地點：長庚大學電機系</li>
+                <li>工作內容: 開發及維護網頁後端。</li>
+                <li>使用技術: Node.js、PHP、SQL。</li>
+            </ul>
+        </section>
+
+
+        <section id="reward" class="fade-in">
+            <h2 class="gradient-title">得獎經歷</h2>
+            <ul>
+                <li>2023 AI+新銳選拔賽 決選獲得40萬獎金</li>
+            </ul>
+        </section>
+
+        <section id="paper" class="fade-in">
+            <h2 class="gradient-title">發表論文</h2>
+            <ul>
+                <li>Title: An Automated Toolchain for QUBO-based Optimization with Quantum-inspired Annealers </li>
+                <li>Author: <b>Chen-Yu Liu</b>; Yun-Ting Zhang; Chin-Fu Nien; Chia-Wei Lin; Wen-Jui Chao; Lien-Po Yu; Yuan-Ho Chen</li>
+                <li>Conference: 20th International SoC Design Conference (ISOCC) , Jeju, Korea, Oct. 2023</li>
+                <li>Publication: IEEE Xplore</li>
+            </ul>
+        </section>
+    </main>
+    <script src="src/index.js"></script>
 </body>
-</html>
+
+<footer>
+    <div class="footer-content">
+        <h2 class="gradient-title">Contact Me</h2>
+        <a href="mailto:acent70@gmail.com">
+            <img src="images\email.jpg" alt="Email icon">
+        </a>
+        <a href="https://www.facebook.com/lynne.liu/" target="_blank">
+            <img src="images\fb.png" alt="Facebook icon">
+        </a>
+    </div>
+</footer></html>
