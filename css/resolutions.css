@@ -41,12 +41,30 @@ main {
     align-items: center;
 }
 
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+
 .card {
+    opacity: 0;
     perspective: 1000px;
     cursor: pointer;
     margin: 1rem 0;
 
 }
+
+.card.slide-up {
+    animation: slideUp 0.5s ease-out forwards;
+}
+
 
 .card-inner {
     position: relative;
@@ -144,7 +162,7 @@ footer {
 }
 
 .footer-content img {
-    width: 40px; /* 調整圖標大小 */
+    width: 40px; 
     height: auto;
     margin: 0.5rem;
 }

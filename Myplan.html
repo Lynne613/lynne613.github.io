@@ -3,80 +3,114 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Self Intrduction Website</title>
-    <link rel="stylesheet" href="css/MyPlan.css">
+    <title>Self Introduction Website</title>
+    <link rel="stylesheet" href="css/resolutions.css">
 </head>
 <body>
     <header>
         <h1 class="gradient-title">我對於訓練模型所規劃的努力事項</h1>
         <nav>
             <ul class="nav-list">
-                <li><a href="index.html">返回首頁</a></li>
-                <li><a href="resolutions.html">四件大事清單</a></li>
+                <button class="back-button" onclick="window.location.href='index.html'">返回首頁</button>
+                <button class="back-button" onclick="window.location.href='resolutions.html'">四件大事</button>
             </ul>
         </nav>
     </header>
     <main>
-        <div class="section-container">
-        <section id="Finding" class="fade-in">
-            <h2 class="gradient-title">找尋大量素材</h2>
-            <img src="images\finds.png" alt="my photo">
-            <p>要訓練模型，首先要有大量的圖片，圖片的意義在於讓模型知道我希望他幫我畫出什麼樣類型的內容，並且將資料整理成模型可以使用的格式。<br>
-                這個過程需要花費大量的時間，但是這是訓練模型的第一步，也是最重要的一步。<br>
-                我預計在暑假前期，透過Python進行爬蟲，找尋大量的圖片，並透過Python的圖片處理套件修飾圖片。<br>
-            </p>
-                
-        </section>
-        <section id="parameter" class="fade-in">
-            <h2 class="gradient-title">調整參數</h2>
-            <img src="images\parameter.jpg" alt="my photo">
-            <p>在訓練模型的過程中，我需要調整模型的參數，以達到最佳的訓練效果。<br>
-                這個過程需要學習大量的人工智慧及機器學習知識並透過不斷的嘗試，找出最適合的參數。<br>
-                我預計在暑假的中期，確定模型的超參數，例如層數、節點數、激活函數和損失函數。<br>
-            </p>
-        </section>
-
-        <section id="train" class="fade-in">
-            <h2 class="gradient-title">模型訓練</h2>
-            <img src="images\train.png" alt="my photo">
-            <p>完成上面兩點之後我需要使用訓練集訓練模型。<br>
-            步驟包含在驗證集上監控模型的性能。<br>
-            也需要調整模型的超參數以提高性能。<br>
-            當模型在驗證集上達到最佳性能時，停止訓練，如此模型算是完成約7成。</p>
-        </section>
-
-        <section id="eva" class="fade-in">
-            <h2 class="gradient-title">模型評估</h2>
-            <img src="images\eva.jpg" alt="my photo">
-            <p>在這之後我需要使用測試集評估模型的性能。<br>
-                且需要計算模型的指標，例如精度、召回率和F1值。<br>
-                並分析模型的錯誤以確定改進方向。<br>
-            </p>
-        </section>
-        
-        <section id="model" class="fade-in">
-            <h2 class="gradient-title">模型部署</h2>
-            <img src="images\final.jpg" alt="my photo">
-            <p>最後一步就是將訓練好的模型部署到生產環境中。<br>
-                並監控模型的性能並進行必要的調整。<br>
-            </p>
-            
-        </section>
-    </div>
+        <div class="grid-container">
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>找尋大量素材</h2>
+                        <img src="images/finds.png" alt="my photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>找尋大量素材</h2>
+                        <p>要訓練模型，首先要有大量的圖片，圖片的意義在於讓模型知道我希望他幫我畫出什麼樣類型的內容，並且將資料整理成模型可以使用的格式。<br>
+                            這個過程需要花費大量的時間，但是這是訓練模型的第一步，也是最重要的一步。<br>
+                            我預計在暑假前期，透過Python進行爬蟲，找尋大量的圖片，並透過Python的圖片處理套件修飾圖片。<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>調整參數</h2>
+                        <img src="images/parameter.jpg" alt="my photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>調整參數</h2>
+                        <p>在訓練模型的過程中，我需要調整模型的參數，以達到最佳的訓練效果。<br>
+                            這個過程需要學習大量的人工智慧及機器學習知識並透過不斷的嘗試，找出最適合的參數。<br>
+                            我預計在暑假的中期，確定模型的超參數，例如層數、節點數、激活函數和損失函數。<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>模型訓練</h2>
+                        <img src="images/train.png" alt="my photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>模型訓練</h2>
+                        <p>完成上面兩點之後我需要使用訓練集訓練模型。<br>
+                            步驟包含在驗證集上監控模型的性能。<br>
+                            也需要調整模型的超參數以提高性能。<br>
+                            當模型在驗證集上達到最佳性能時，停止訓練，如此模型算是完成約7成。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>模型評估</h2>
+                        <img src="images/eva.jpg" alt="my photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>模型評估</h2>
+                        <p>在這之後我需要使用測試集評估模型的性能。<br>
+                            且需要計算模型的指標，例如精度、召回率和F1值。<br>
+                            並分析模型的錯誤以確定改進方向。<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <h2>模型部署</h2>
+                        <img src="images/final.jpg" alt="my photo">
+                        <p>點擊我看更多</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>模型部署</h2>
+                        <p>最後一步就是將訓練好的模型部署到生產環境中。<br>
+                            並監控模型的性能並進行必要的調整。<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </main>
-    <script src="src/MyPlan.js"></script>
+    <script src="src/resulutions.js"></script>
 </body>
 
 <footer>
     <div class="footer-content">
         <h2 class="gradient-title">Contact Me</h2>
         <a href="mailto:acent70@gmail.com">
-            <img src="images\email.jpg" alt="Email icon">
+            <img src="images/email.jpg" alt="Email icon">
         </a>
         <a href="https://www.facebook.com/lynne.liu/" target="_blank">
-            <img src="images\fb.png" alt="Facebook icon">
+            <img src="images/fb.png" alt="Facebook icon">
         </a>
     </div>
 </footer>
-
 </html>
