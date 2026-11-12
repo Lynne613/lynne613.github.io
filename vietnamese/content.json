@@ -1,0 +1,1908 @@
+{
+  "lessons": [
+    {
+      "id": "1013",
+      "title": "問候、禮貌與請求重說"
+    },
+    {
+      "id": "1014",
+      "title": "數字與吃飯問答"
+    },
+    {
+      "id": "1015",
+      "title": "想吃什麼與家人稱謂"
+    },
+    {
+      "id": "1019",
+      "title": "擁有、否定與生活問答"
+    },
+    {
+      "id": "1020",
+      "title": "飲料點單與整十數字"
+    },
+    {
+      "id": "1021",
+      "title": "辨認物品與咖啡店"
+    },
+    {
+      "id": "1022",
+      "title": "喜好、選擇與餐廳"
+    },
+    {
+      "id": "1027",
+      "title": "國籍、職業與人物介紹"
+    },
+    {
+      "id": "1029",
+      "title": "習慣、興趣與追問"
+    },
+    {
+      "id": "1031",
+      "title": "延續對話與邀請"
+    },
+    {
+      "id": "1103",
+      "title": "認識新朋友"
+    },
+    {
+      "id": "1105",
+      "title": "邀約、回應與改約"
+    },
+    {
+      "id": "1107",
+      "title": "自然回應與時間確認"
+    },
+    {
+      "id": "1109",
+      "title": "大數、議價與資訊確認"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v-1013-01",
+      "vi": "khỏe",
+      "zh": "健康、身體好",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "example": "Con khỏe không?",
+      "exampleZh": "你還好嗎？（長輩問晚輩）"
+    },
+    {
+      "id": "v-1013-02",
+      "vi": "mệt",
+      "zh": "累",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "example": "Cô hơi mệt.",
+      "exampleZh": "我有一點累。（女性長輩自稱 cô）"
+    },
+    {
+      "id": "v-1013-03",
+      "vi": "nghỉ ngơi",
+      "zh": "休息",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "example": "Vậy cô nghỉ ngơi đi ạ.",
+      "exampleZh": "那您休息一下吧。"
+    },
+    {
+      "id": "v-1013-04",
+      "vi": "cảm ơn",
+      "zh": "謝謝",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "example": "Cảm ơn bạn.",
+      "exampleZh": "謝謝你。"
+    },
+    {
+      "id": "v-1013-05",
+      "vi": "nói lại",
+      "zh": "再說一次",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "example": "Bạn nói lại được không?",
+      "exampleZh": "你可以再說一次嗎？"
+    },
+    {
+      "id": "v-1013-06",
+      "vi": "ạ",
+      "zh": "句末的禮貌語氣詞",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "example": "Con khỏe ạ.",
+      "exampleZh": "我很好。（晚輩對長輩）"
+    },
+    {
+      "id": "v-1014-01",
+      "vi": "ăn",
+      "zh": "吃",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "example": "Ba ăn cá.",
+      "exampleZh": "爸爸吃魚。"
+    },
+    {
+      "id": "v-1014-02",
+      "vi": "cá",
+      "zh": "魚",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "example": "Ba không ăn cá.",
+      "exampleZh": "爸爸不吃魚。"
+    },
+    {
+      "id": "v-1014-03",
+      "vi": "ba",
+      "zh": "爸爸；數字三",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "example": "Ba ăn cá không?",
+      "exampleZh": "爸爸吃魚嗎？"
+    },
+    {
+      "id": "v-1014-04",
+      "vi": "bà",
+      "zh": "祖母／年長女性稱謂",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "example": "Bà ăn cá không?",
+      "exampleZh": "奶奶吃魚嗎？（依家庭稱謂）"
+    },
+    {
+      "id": "v-1014-05",
+      "vi": "bốn",
+      "zh": "四",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "example": "Bốn.",
+      "exampleZh": "四。"
+    },
+    {
+      "id": "v-1014-06",
+      "vi": "mười",
+      "zh": "十",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "example": "Mười.",
+      "exampleZh": "十。"
+    },
+    {
+      "id": "v-1015-01",
+      "vi": "bánh mì",
+      "zh": "麵包；越式法國麵包",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "example": "Em muốn ăn bánh mì.",
+      "exampleZh": "我想吃越式麵包。"
+    },
+    {
+      "id": "v-1015-02",
+      "vi": "bánh xèo",
+      "zh": "越式煎餅",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "example": "Em muốn ăn bánh xèo.",
+      "exampleZh": "我想吃越式煎餅。"
+    },
+    {
+      "id": "v-1015-03",
+      "vi": "phở",
+      "zh": "越式河粉",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "example": "Em không ăn phở.",
+      "exampleZh": "我不吃河粉。"
+    },
+    {
+      "id": "v-1015-04",
+      "vi": "mì",
+      "zh": "麵",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "example": "Má ăn mì.",
+      "exampleZh": "媽媽吃麵。"
+    },
+    {
+      "id": "v-1015-05",
+      "vi": "muốn",
+      "zh": "想要",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "example": "Em muốn ăn mì.",
+      "exampleZh": "我想吃麵。"
+    },
+    {
+      "id": "v-1015-06",
+      "vi": "gì",
+      "zh": "什麼",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "example": "Vậy em ăn gì?",
+      "exampleZh": "那你吃什麼？"
+    },
+    {
+      "id": "v-1019-01",
+      "vi": "có",
+      "zh": "有、擁有",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "example": "Tôi có ô tô.",
+      "exampleZh": "我有汽車。"
+    },
+    {
+      "id": "v-1019-02",
+      "vi": "ô tô",
+      "zh": "汽車",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "example": "Bạn có ô tô không?",
+      "exampleZh": "你有汽車嗎？"
+    },
+    {
+      "id": "v-1019-03",
+      "vi": "thời gian",
+      "zh": "時間",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "example": "Con có thời gian không?",
+      "exampleZh": "你有時間嗎？（長輩問晚輩）"
+    },
+    {
+      "id": "v-1019-04",
+      "vi": "em gái",
+      "zh": "妹妹",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "example": "Tôi có một em gái.",
+      "exampleZh": "我有一個妹妹。（練習角色）"
+    },
+    {
+      "id": "v-1019-05",
+      "vi": "anh trai",
+      "zh": "哥哥",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "example": "Tôi có một anh trai.",
+      "exampleZh": "我有一個哥哥。（替換練習）"
+    },
+    {
+      "id": "v-1019-06",
+      "vi": "mười lăm",
+      "zh": "十五",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "example": "Mười lăm.",
+      "exampleZh": "十五，五在此讀 lăm。"
+    },
+    {
+      "id": "v-1020-01",
+      "vi": "cà phê sữa đá",
+      "zh": "冰奶咖啡，常用煉乳",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "example": "Mình uống cà phê sữa đá.",
+      "exampleZh": "我喝冰奶咖啡。"
+    },
+    {
+      "id": "v-1020-02",
+      "vi": "trà sữa",
+      "zh": "奶茶",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "example": "Mình uống trà sữa.",
+      "exampleZh": "我喝奶茶。"
+    },
+    {
+      "id": "v-1020-03",
+      "vi": "ít đường",
+      "zh": "少糖",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "example": "Ít đường, cảm ơn em.",
+      "exampleZh": "少糖，謝謝你。"
+    },
+    {
+      "id": "v-1020-04",
+      "vi": "uống",
+      "zh": "喝",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "example": "Bạn uống gì?",
+      "exampleZh": "你喝什麼？"
+    },
+    {
+      "id": "v-1020-05",
+      "vi": "siêu thị",
+      "zh": "超級市場",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "example": "Con đi siêu thị.",
+      "exampleZh": "我去超市。（晚輩自稱 con）"
+    },
+    {
+      "id": "v-1020-06",
+      "vi": "hai mươi",
+      "zh": "二十",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "example": "Hai mươi.",
+      "exampleZh": "二十，注意 mươi 與 mười 不同。"
+    },
+    {
+      "id": "v-1021-01",
+      "vi": "bánh chuối",
+      "zh": "香蕉蛋糕",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "example": "Đây là bánh chuối ạ.",
+      "exampleZh": "這是香蕉蛋糕。"
+    },
+    {
+      "id": "v-1021-02",
+      "vi": "vở",
+      "zh": "筆記本、練習簿",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "example": "Đây là vở.",
+      "exampleZh": "這是筆記本。（替換練習）"
+    },
+    {
+      "id": "v-1021-03",
+      "vi": "xe máy",
+      "zh": "機車",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "example": "Đây là xe máy.",
+      "exampleZh": "這是機車。（替換練習）"
+    },
+    {
+      "id": "v-1021-04",
+      "vi": "tiền mặt",
+      "zh": "現金",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "example": "Tiền mặt hay chuyển khoản?",
+      "exampleZh": "現金還是轉帳？"
+    },
+    {
+      "id": "v-1021-05",
+      "vi": "chuyển khoản",
+      "zh": "轉帳",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "example": "Anh chuyển khoản.",
+      "exampleZh": "我轉帳。（男顧客自稱 anh）"
+    },
+    {
+      "id": "v-1021-06",
+      "vi": "tính tiền",
+      "zh": "結帳、算帳",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "example": "Em ơi, tính tiền hộ anh.",
+      "exampleZh": "請幫我結帳。（男顧客稱店員 em）"
+    },
+    {
+      "id": "v-1022-01",
+      "vi": "thích",
+      "zh": "喜歡",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "example": "Tôi thích uống cà phê.",
+      "exampleZh": "我喜歡喝咖啡。"
+    },
+    {
+      "id": "v-1022-02",
+      "vi": "bún bò",
+      "zh": "牛肉米線",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "example": "Vậy ăn bún bò nha.",
+      "exampleZh": "那就吃牛肉米線吧。"
+    },
+    {
+      "id": "v-1022-03",
+      "vi": "chờ",
+      "zh": "等候",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "example": "Bạn chờ mình một chút nha.",
+      "exampleZh": "請稍等我一下。"
+    },
+    {
+      "id": "v-1022-04",
+      "vi": "chọn",
+      "zh": "選擇",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "example": "Bạn chọn đi.",
+      "exampleZh": "你選吧。"
+    },
+    {
+      "id": "v-1022-05",
+      "vi": "cũng",
+      "zh": "也",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "example": "Tôi cũng vậy.",
+      "exampleZh": "我也是。"
+    },
+    {
+      "id": "v-1022-06",
+      "vi": "gì cũng được",
+      "zh": "什麼都可以",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "example": "Gì cũng được, bạn chọn đi.",
+      "exampleZh": "什麼都可以，你選吧。"
+    },
+    {
+      "id": "v-1027-01",
+      "vi": "giáo viên",
+      "zh": "老師、教師",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "example": "Bạn ấy là giáo viên.",
+      "exampleZh": "他／她是老師。（練習角色）"
+    },
+    {
+      "id": "v-1027-02",
+      "vi": "sinh viên",
+      "zh": "大學生",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "example": "Bạn ấy là sinh viên.",
+      "exampleZh": "他／她是大學生。（替換練習）"
+    },
+    {
+      "id": "v-1027-03",
+      "vi": "vui tính",
+      "zh": "風趣、性格開朗",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "example": "Bạn ấy vui tính.",
+      "exampleZh": "他／她很風趣。"
+    },
+    {
+      "id": "v-1027-04",
+      "vi": "nghề",
+      "zh": "職業",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "example": "Bạn làm nghề gì?",
+      "exampleZh": "你做什麼工作？"
+    },
+    {
+      "id": "v-1027-05",
+      "vi": "người",
+      "zh": "人",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "example": "Bạn là người nước nào?",
+      "exampleZh": "你是哪國人？"
+    },
+    {
+      "id": "v-1027-06",
+      "vi": "sống",
+      "zh": "生活、居住",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "example": "Bạn sống ở đâu?",
+      "exampleZh": "你住在哪裡？"
+    },
+    {
+      "id": "v-1029-01",
+      "vi": "đọc sách",
+      "zh": "看書、閱讀",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "example": "Em thích đọc sách.",
+      "exampleZh": "我喜歡看書。"
+    },
+    {
+      "id": "v-1029-02",
+      "vi": "nghe nhạc",
+      "zh": "聽音樂",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "example": "Tôi không thích nghe nhạc.",
+      "exampleZh": "我不喜歡聽音樂。（練習角色）"
+    },
+    {
+      "id": "v-1029-03",
+      "vi": "thường",
+      "zh": "經常、通常",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "example": "Bạn thường làm gì?",
+      "exampleZh": "你通常做什麼？"
+    },
+    {
+      "id": "v-1029-04",
+      "vi": "buổi tối",
+      "zh": "晚上",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "example": "Bạn thường làm gì vào buổi tối?",
+      "exampleZh": "你晚上通常做什麼？"
+    },
+    {
+      "id": "v-1029-05",
+      "vi": "nói chậm",
+      "zh": "說慢一點",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "example": "Anh nói chậm một chút được không?",
+      "exampleZh": "你可以說慢一點嗎？（對較年長男性）"
+    },
+    {
+      "id": "v-1029-06",
+      "vi": "chưa hiểu",
+      "zh": "還不懂",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "example": "Tôi chưa hiểu.",
+      "exampleZh": "我還不懂。"
+    },
+    {
+      "id": "v-1031-01",
+      "vi": "gia đình",
+      "zh": "家庭、家人",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "example": "Em đi cà phê với gia đình.",
+      "exampleZh": "我和家人去喝咖啡。（替換練習）"
+    },
+    {
+      "id": "v-1031-02",
+      "vi": "một mình",
+      "zh": "獨自、一個人",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "example": "Em đi xem phim một mình.",
+      "exampleZh": "我一個人去看電影。"
+    },
+    {
+      "id": "v-1031-03",
+      "vi": "với",
+      "zh": "跟、和……一起",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "example": "Em đi cà phê với bạn.",
+      "exampleZh": "我和朋友去喝咖啡。"
+    },
+    {
+      "id": "v-1031-04",
+      "vi": "trân châu",
+      "zh": "珍珠（飲料配料）",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "example": "Em uống trà sữa trân châu.",
+      "exampleZh": "我喝珍珠奶茶。（替換練習）"
+    },
+    {
+      "id": "v-1031-05",
+      "vi": "sở thích",
+      "zh": "興趣、喜好",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "example": "Sở thích.",
+      "exampleZh": "興趣、喜好。"
+    },
+    {
+      "id": "v-1031-06",
+      "vi": "lần sau",
+      "zh": "下次",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "example": "Lần sau chúng ta đi ăn bánh xèo nha.",
+      "exampleZh": "下次我們去吃越式煎餅吧。"
+    },
+    {
+      "id": "v-1103-01",
+      "vi": "người quen",
+      "zh": "熟人、認識的人",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "example": "Người quen.",
+      "exampleZh": "熟人。"
+    },
+    {
+      "id": "v-1103-02",
+      "vi": "chị gái",
+      "zh": "姐姐",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "example": "Đây là chị gái của mình.",
+      "exampleZh": "這是我姐姐。（練習角色）"
+    },
+    {
+      "id": "v-1103-03",
+      "vi": "quen nhau",
+      "zh": "彼此認識",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "example": "Hai người quen nhau à?",
+      "exampleZh": "你們彼此認識嗎？"
+    },
+    {
+      "id": "v-1103-04",
+      "vi": "đúng rồi",
+      "zh": "對、沒錯",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "example": "Đúng rồi.",
+      "exampleZh": "對，沒錯。"
+    },
+    {
+      "id": "v-1103-05",
+      "vi": "mời",
+      "zh": "邀請；請客（依情境）",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "example": "Mình có thể mời bạn một ly cà phê được không?",
+      "exampleZh": "我可以請你喝一杯咖啡嗎？"
+    },
+    {
+      "id": "v-1103-06",
+      "vi": "rất",
+      "zh": "很、非常",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "example": "Bộ đồ của bạn rất đẹp.",
+      "exampleZh": "你的這套衣服很好看。"
+    },
+    {
+      "id": "v-1105-01",
+      "vi": "cuối tuần",
+      "zh": "週末",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "example": "Cuối tuần bạn làm gì?",
+      "exampleZh": "你週末做什麼？"
+    },
+    {
+      "id": "v-1105-02",
+      "vi": "tối nay",
+      "zh": "今晚",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "example": "Tối nay bạn đi ăn không?",
+      "exampleZh": "你今晚要一起出去吃飯嗎？"
+    },
+    {
+      "id": "v-1105-03",
+      "vi": "xin lỗi",
+      "zh": "對不起、不好意思",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "example": "Xin lỗi, mình bận rồi.",
+      "exampleZh": "不好意思，我有事了。"
+    },
+    {
+      "id": "v-1105-04",
+      "vi": "bận",
+      "zh": "忙、有事",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "example": "Mình bận rồi.",
+      "exampleZh": "我已經有事了。"
+    },
+    {
+      "id": "v-1105-05",
+      "vi": "đi xem phim",
+      "zh": "去看電影",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "example": "Em đi xem phim.",
+      "exampleZh": "我去看電影。"
+    },
+    {
+      "id": "v-1105-06",
+      "vi": "để mình xem đã",
+      "zh": "讓我先看看、先確認",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "example": "Để mình xem đã nha.",
+      "exampleZh": "讓我先看看喔。（尚未答應）"
+    },
+    {
+      "id": "v-1107-01",
+      "vi": "rảnh",
+      "zh": "有空、空閒",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "example": "Khi nào bạn rảnh?",
+      "exampleZh": "你什麼時候有空？"
+    },
+    {
+      "id": "v-1107-02",
+      "vi": "mấy giờ",
+      "zh": "幾點",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "example": "Mấy giờ đi?",
+      "exampleZh": "幾點去？"
+    },
+    {
+      "id": "v-1107-03",
+      "vi": "thứ Bảy",
+      "zh": "星期六",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "example": "Tối thứ bảy mình bận rồi.",
+      "exampleZh": "星期六晚上我有事了。"
+    },
+    {
+      "id": "v-1107-04",
+      "vi": "Chủ nhật",
+      "zh": "星期日",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "example": "Chủ nhật được không?",
+      "exampleZh": "星期日可以嗎？"
+    },
+    {
+      "id": "v-1107-05",
+      "vi": "chiều",
+      "zh": "下午",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "example": "Năm giờ chiều, được không?",
+      "exampleZh": "下午五點，可以嗎？"
+    },
+    {
+      "id": "v-1107-06",
+      "vi": "vẫn chỗ cũ",
+      "zh": "還是原來的地方",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "example": "Vẫn chỗ cũ, đúng không?",
+      "exampleZh": "還是原來的地方，對嗎？"
+    },
+    {
+      "id": "v-1109-01",
+      "vi": "tai nghe",
+      "zh": "耳機",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "example": "Em muốn mua tai nghe B.",
+      "exampleZh": "我想買耳機 B。"
+    },
+    {
+      "id": "v-1109-02",
+      "vi": "loa",
+      "zh": "喇叭、揚聲器",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "example": "Em không muốn mua loa.",
+      "exampleZh": "我不想買喇叭。"
+    },
+    {
+      "id": "v-1109-03",
+      "vi": "áo khoác",
+      "zh": "外套、夾克",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "example": "Mình muốn mua một cái áo khoác.",
+      "exampleZh": "我想買一件外套。"
+    },
+    {
+      "id": "v-1109-04",
+      "vi": "bớt",
+      "zh": "減少；降價",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "example": "Mắc quá, bớt cho em được không?",
+      "exampleZh": "太貴了，可以算我便宜一點嗎？"
+    },
+    {
+      "id": "v-1109-05",
+      "vi": "triệu",
+      "zh": "百萬",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "example": "Một triệu rưỡi.",
+      "exampleZh": "一百五十萬。"
+    },
+    {
+      "id": "v-1109-06",
+      "vi": "số cuối",
+      "zh": "最後一個數字",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "example": "Bạn nói lại số cuối được không?",
+      "exampleZh": "你可以再說一次最後一個數字嗎？"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s-1013-01",
+      "vi": "Cô nói lại được không ạ?",
+      "zh": "您可以再說一次嗎？",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "tokens": [
+        "Cô",
+        "nói lại",
+        "được không",
+        "ạ?"
+      ],
+      "note": "對女性長輩或老師用 cô；ạ 表禮貌。"
+    },
+    {
+      "id": "s-1013-02",
+      "vi": "Con khỏe không?",
+      "zh": "你還好嗎？",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "tokens": [
+        "Con",
+        "khỏe",
+        "không?"
+      ],
+      "note": "這是長輩問晚輩；con 在回話中也可作晚輩自稱。"
+    },
+    {
+      "id": "s-1013-03",
+      "vi": "Vậy cô nghỉ ngơi đi ạ.",
+      "zh": "那您休息一下吧。",
+      "lesson": "1013",
+      "topic": "問候、禮貌與請求重說",
+      "tokens": [
+        "Vậy",
+        "cô",
+        "nghỉ ngơi",
+        "đi",
+        "ạ."
+      ],
+      "note": "vậy 承接對方說累；nghỉ ngơi 是休息。"
+    },
+    {
+      "id": "s-1014-01",
+      "vi": "Ba ăn cá không?",
+      "zh": "爸爸吃魚嗎？",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "tokens": [
+        "Ba",
+        "ăn",
+        "cá",
+        "không?"
+      ],
+      "note": "是否問句將 không 放在句尾。"
+    },
+    {
+      "id": "s-1014-02",
+      "vi": "Ba không ăn cá.",
+      "zh": "爸爸不吃魚。",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "tokens": [
+        "Ba",
+        "không",
+        "ăn",
+        "cá."
+      ],
+      "note": "否定動作時，không 放在動詞前。"
+    },
+    {
+      "id": "s-1014-03",
+      "vi": "Bà ăn cá không?",
+      "zh": "奶奶吃魚嗎？",
+      "lesson": "1014",
+      "topic": "數字與吃飯問答",
+      "tokens": [
+        "Bà",
+        "ăn",
+        "cá",
+        "không?"
+      ],
+      "note": "ba 和 bà 聲調不同；依家庭關係選稱謂。"
+    },
+    {
+      "id": "s-1015-01",
+      "vi": "Vậy em ăn gì?",
+      "zh": "那你吃什麼？",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "tokens": [
+        "Vậy",
+        "em",
+        "ăn",
+        "gì?"
+      ],
+      "note": "gì 放在所問食物的位置；em 指比說話者年輕的人。"
+    },
+    {
+      "id": "s-1015-02",
+      "vi": "Em không ăn phở.",
+      "zh": "我不吃河粉。",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "tokens": [
+        "Em",
+        "không",
+        "ăn",
+        "phở."
+      ],
+      "note": "本句 em 是較年輕者自稱；不要只答否定而省掉不清楚的資訊。"
+    },
+    {
+      "id": "s-1015-03",
+      "vi": "Em muốn ăn bánh mì.",
+      "zh": "我想吃越式麵包。",
+      "lesson": "1015",
+      "topic": "想吃什麼與家人稱謂",
+      "tokens": [
+        "Em",
+        "muốn",
+        "ăn",
+        "bánh mì."
+      ],
+      "note": "依課堂 muốn ăn 句型替換；不是說已經吃過。"
+    },
+    {
+      "id": "s-1019-01",
+      "vi": "Bạn có ô tô không?",
+      "zh": "你有汽車嗎？",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "tokens": [
+        "Bạn",
+        "có",
+        "ô tô",
+        "không?"
+      ],
+      "note": "問對方用 bạn；不是在自己的 tôi 陳述句後只加 không。"
+    },
+    {
+      "id": "s-1019-02",
+      "vi": "Tôi không có ô tô.",
+      "zh": "我沒有汽車。",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "tokens": [
+        "Tôi",
+        "không",
+        "có",
+        "ô tô."
+      ],
+      "note": "không 放在 có 前，否定擁有。"
+    },
+    {
+      "id": "s-1019-03",
+      "vi": "Tôi có một em gái.",
+      "zh": "我有一個妹妹。（練習角色）",
+      "lesson": "1019",
+      "topic": "擁有、否定與生活問答",
+      "tokens": [
+        "Tôi",
+        "có",
+        "một",
+        "em gái."
+      ],
+      "note": "một 是一；em gái 指妹妹。這是語法練習，不代表你的家庭資料。"
+    },
+    {
+      "id": "s-1020-01",
+      "vi": "Mình uống trà sữa.",
+      "zh": "我喝奶茶。",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "tokens": [
+        "Mình",
+        "uống",
+        "trà sữa."
+      ],
+      "note": "mình 在此是說話者自稱。"
+    },
+    {
+      "id": "s-1020-02",
+      "vi": "Cho anh một cà phê sữa đá và một trà sữa.",
+      "zh": "給我一杯冰奶咖啡和一杯奶茶。",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "tokens": [
+        "Cho",
+        "anh",
+        "một",
+        "cà phê sữa đá",
+        "và",
+        "một",
+        "trà sữa."
+      ],
+      "note": "男顧客對較年輕店員自稱 anh；課堂口語省略杯量詞。"
+    },
+    {
+      "id": "s-1020-03",
+      "vi": "Con đi siêu thị.",
+      "zh": "我去超市。",
+      "lesson": "1020",
+      "topic": "飲料點單與整十數字",
+      "tokens": [
+        "Con",
+        "đi",
+        "siêu thị."
+      ],
+      "note": "晚輩對家中長輩用 con 自稱。"
+    },
+    {
+      "id": "s-1021-01",
+      "vi": "Đây là con tôm, đúng không?",
+      "zh": "這是蝦，對嗎？",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "tokens": [
+        "Đây",
+        "là",
+        "con tôm,",
+        "đúng không?"
+      ],
+      "note": "đúng không 在句末請對方確認。"
+    },
+    {
+      "id": "s-1021-02",
+      "vi": "Em ơi, tính tiền hộ anh.",
+      "zh": "請幫我結帳。",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "tokens": [
+        "Em ơi,",
+        "tính tiền",
+        "hộ",
+        "anh."
+      ],
+      "note": "此練習的男顧客自稱 anh，稱較年輕店員 em。"
+    },
+    {
+      "id": "s-1021-03",
+      "vi": "Cho anh một bánh sô cô la nhé.",
+      "zh": "請給我一份巧克力蛋糕。",
+      "lesson": "1021",
+      "topic": "辨認物品與咖啡店",
+      "tokens": [
+        "Cho",
+        "anh",
+        "một",
+        "bánh sô cô la",
+        "nhé."
+      ],
+      "note": "nhé 用來柔化請求；稱謂依年齡關係調整。"
+    },
+    {
+      "id": "s-1022-01",
+      "vi": "Tôi thích uống cà phê.",
+      "zh": "我喜歡喝咖啡。",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "tokens": [
+        "Tôi",
+        "thích",
+        "uống",
+        "cà phê."
+      ],
+      "note": "thích 表喜好，不等於現在要點一杯。"
+    },
+    {
+      "id": "s-1022-02",
+      "vi": "Bạn chờ mình một chút nha.",
+      "zh": "請稍等我一下。",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "tokens": [
+        "Bạn",
+        "chờ",
+        "mình",
+        "một chút",
+        "nha."
+      ],
+      "note": "chờ 是等待；cho 是給，聲調和意思都不同。"
+    },
+    {
+      "id": "s-1022-03",
+      "vi": "Vậy ăn bún bò nha.",
+      "zh": "那就吃牛肉米線吧。",
+      "lesson": "1022",
+      "topic": "喜好、選擇與餐廳",
+      "tokens": [
+        "Vậy",
+        "ăn",
+        "bún bò",
+        "nha."
+      ],
+      "note": "接住對方「都可以」後，提出具體選擇。"
+    },
+    {
+      "id": "s-1027-01",
+      "vi": "Bạn ấy là giáo viên.",
+      "zh": "他／她是老師。",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "tokens": [
+        "Bạn ấy",
+        "là",
+        "giáo viên."
+      ],
+      "note": "名詞身分前用 là；bạn ấy 的性別依語境。"
+    },
+    {
+      "id": "s-1027-02",
+      "vi": "Bạn ấy vui tính.",
+      "zh": "他／她很風趣。",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "tokens": [
+        "Bạn",
+        "ấy",
+        "vui tính."
+      ],
+      "note": "形容個性時不用在 vui tính 前加 là。"
+    },
+    {
+      "id": "s-1027-03",
+      "vi": "Bạn làm nghề gì?",
+      "zh": "你做什麼工作？",
+      "lesson": "1027",
+      "topic": "國籍、職業與人物介紹",
+      "tokens": [
+        "Bạn",
+        "làm",
+        "nghề",
+        "gì?"
+      ],
+      "note": "nghề 表職業；本句詢問工作種類。"
+    },
+    {
+      "id": "s-1029-01",
+      "vi": "Anh nói chậm một chút được không?",
+      "zh": "你可以說慢一點嗎？",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "tokens": [
+        "Anh",
+        "nói chậm",
+        "một chút",
+        "được không?"
+      ],
+      "note": "稱較年長男性為 anh；這是延續對話的求助句。"
+    },
+    {
+      "id": "s-1029-02",
+      "vi": "Bạn thường làm gì vào buổi tối?",
+      "zh": "你晚上通常做什麼？",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "tokens": [
+        "Bạn",
+        "thường",
+        "làm gì",
+        "vào buổi tối?"
+      ],
+      "note": "thường 放在動作前；題目採用時間放句尾的課堂寫法。"
+    },
+    {
+      "id": "s-1029-03",
+      "vi": "Tôi thích uống cà phê đen.",
+      "zh": "我喜歡喝黑咖啡。",
+      "lesson": "1029",
+      "topic": "習慣、興趣與追問",
+      "tokens": [
+        "Tôi",
+        "thích",
+        "uống",
+        "cà phê đen."
+      ],
+      "note": "將喜歡的飲料補完整，再追問對方。"
+    },
+    {
+      "id": "s-1031-01",
+      "vi": "Lần sau chúng ta đi ăn bánh xèo nha.",
+      "zh": "下次我們去吃越式煎餅吧。",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "tokens": [
+        "Lần sau",
+        "chúng ta",
+        "đi ăn",
+        "bánh xèo",
+        "nha."
+      ],
+      "note": "chúng ta 包含聽話者；這是提議，尚不等於對方答應。"
+    },
+    {
+      "id": "s-1031-02",
+      "vi": "Em thường đi cà phê với bạn vào cuối tuần.",
+      "zh": "我週末常和朋友去喝咖啡。",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "tokens": [
+        "Em",
+        "thường",
+        "đi cà phê",
+        "với bạn",
+        "vào cuối tuần."
+      ],
+      "note": "本題按課堂順序練：人物、頻率、活動、同行者、時間。"
+    },
+    {
+      "id": "s-1031-03",
+      "vi": "Em có thường đến đây không?",
+      "zh": "你常來這裡嗎？",
+      "lesson": "1031",
+      "topic": "延續對話與邀請",
+      "tokens": [
+        "Em",
+        "có",
+        "thường",
+        "đến đây",
+        "không?"
+      ],
+      "note": "có…không 是是非問句；老師對較年輕學員可用 em。"
+    },
+    {
+      "id": "s-1103-01",
+      "vi": "Rất vui được gặp bạn.",
+      "zh": "很高興認識你。",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "tokens": [
+        "Rất vui",
+        "được",
+        "gặp",
+        "bạn."
+      ],
+      "note": "問候後可接名字、職業等問題。"
+    },
+    {
+      "id": "s-1103-02",
+      "vi": "Mình có thể mời bạn một ly cà phê được không?",
+      "zh": "我可以請你喝一杯咖啡嗎？",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "tokens": [
+        "Mình",
+        "có thể",
+        "mời bạn",
+        "một ly cà phê",
+        "được không?"
+      ],
+      "note": "mời 在本情境表示請客；一杯是 một ly。"
+    },
+    {
+      "id": "s-1103-03",
+      "vi": "Vậy bạn muốn uống gì?",
+      "zh": "那你想喝什麼？",
+      "lesson": "1103",
+      "topic": "認識新朋友",
+      "tokens": [
+        "Vậy",
+        "bạn",
+        "muốn",
+        "uống",
+        "gì?"
+      ],
+      "note": "被拒絕原本飲料後，改問對方想要什麼。"
+    },
+    {
+      "id": "s-1105-01",
+      "vi": "Tối nay bạn đi ăn không?",
+      "zh": "你今晚要一起出去吃飯嗎？",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "tokens": [
+        "Tối nay",
+        "bạn",
+        "đi ăn",
+        "không?"
+      ],
+      "note": "句尾 không 形成邀約問句。"
+    },
+    {
+      "id": "s-1105-02",
+      "vi": "Xin lỗi, mình bận rồi.",
+      "zh": "不好意思，我有事了。",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "tokens": [
+        "Xin lỗi,",
+        "mình",
+        "bận",
+        "rồi."
+      ],
+      "note": "婉拒邀約；可再提另一個時間。"
+    },
+    {
+      "id": "s-1105-03",
+      "vi": "Để mình xem đã nha.",
+      "zh": "讓我先看看喔。",
+      "lesson": "1105",
+      "topic": "邀約、回應與改約",
+      "tokens": [
+        "Để",
+        "mình",
+        "xem",
+        "đã",
+        "nha."
+      ],
+      "note": "這是暫緩確認，不能當作已答應。"
+    },
+    {
+      "id": "s-1107-01",
+      "vi": "Khi nào bạn rảnh?",
+      "zh": "你什麼時候有空？",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "tokens": [
+        "Khi nào",
+        "bạn",
+        "rảnh?"
+      ],
+      "note": "詢問有空的時間；不是只問幾點。"
+    },
+    {
+      "id": "s-1107-02",
+      "vi": "Năm giờ chiều, được không?",
+      "zh": "下午五點，可以嗎？",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "tokens": [
+        "Năm giờ",
+        "chiều,",
+        "được không?"
+      ],
+      "note": "把早上、下午、晚上一起說清楚。"
+    },
+    {
+      "id": "s-1107-03",
+      "vi": "Vẫn chỗ cũ, đúng không?",
+      "zh": "還是原來的地方，對嗎？",
+      "lesson": "1107",
+      "topic": "自然回應與時間確認",
+      "tokens": [
+        "Vẫn",
+        "chỗ cũ,",
+        "đúng không?"
+      ],
+      "note": "確認地點時用 đúng không；đúng rồi 表示「對」。"
+    },
+    {
+      "id": "s-1109-01",
+      "vi": "Mình muốn mua một cái áo khoác.",
+      "zh": "我想買一件外套。",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "tokens": [
+        "Mình",
+        "muốn mua",
+        "một cái",
+        "áo khoác."
+      ],
+      "note": "muốn mua 是想買；cái 是本例物品量詞。"
+    },
+    {
+      "id": "s-1109-02",
+      "vi": "Không phải năm mươi ngàn, mà là một trăm ngàn.",
+      "zh": "不是五萬，而是十萬。",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "tokens": [
+        "Không phải",
+        "năm mươi ngàn,",
+        "mà là",
+        "một trăm ngàn."
+      ],
+      "note": "更正句先說錯誤資訊，後說正確資訊；練習金額單位為越南盾。"
+    },
+    {
+      "id": "s-1109-03",
+      "vi": "Bạn nói lại số cuối được không?",
+      "zh": "你可以再說一次最後一個數字嗎？",
+      "lesson": "1109",
+      "topic": "大數、議價與資訊確認",
+      "tokens": [
+        "Bạn",
+        "nói lại",
+        "số cuối",
+        "được không?"
+      ],
+      "note": "聯絡資訊沒聽清時，具體指出要重複末碼。"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d-1013",
+      "title": "和長輩問候",
+      "lesson": "1013",
+      "situation": "你是晚輩，對方是以 cô 自稱的女性長輩。先回答，再關心她；最後練請求重說。",
+      "turns": [
+        {
+          "prompt": "Con khỏe không?",
+          "promptZh": "你還好嗎？",
+          "answer": "Dạ, con khỏe ạ. Cô khỏe không ạ?",
+          "answerZh": "我很好。您還好嗎？",
+          "alternatives": [
+            "Con khỏe ạ. Cô khỏe không ạ?"
+          ],
+          "tip": "你自稱 con，稱她 cô；dạ、ạ 表示禮貌。"
+        },
+        {
+          "prompt": "Cô hơi mệt.",
+          "promptZh": "我有一點累。",
+          "answer": "Vậy cô nghỉ ngơi đi ạ.",
+          "answerZh": "那您休息一下吧。",
+          "alternatives": [],
+          "tip": "nghỉ ngơi 是休息，不必改成睡覺。"
+        },
+        {
+          "prompt": "Cô nói hơi nhanh.",
+          "promptZh": "我說得有點快。（模擬情境提示）",
+          "answer": "Cô nói lại được không ạ?",
+          "answerZh": "您可以再說一次嗎？",
+          "alternatives": [],
+          "tip": "用完整的禮貌求助句。"
+        }
+      ]
+    },
+    {
+      "id": "d-1020",
+      "title": "咖啡店點單",
+      "lesson": "1020",
+      "situation": "你是男顧客，比店員年長，對店員自稱 anh、稱店員 em。金額與訂單都是練習情境。",
+      "turns": [
+        {
+          "prompt": "Anh muốn order gì ạ?",
+          "promptZh": "您想點什麼？",
+          "answer": "Cho anh một cà phê sữa đá và một trà sữa.",
+          "answerZh": "給我一杯冰奶咖啡和一杯奶茶。",
+          "alternatives": [],
+          "tip": "沿用課堂口語的 order；回答練兩樣飲品與 và。"
+        },
+        {
+          "prompt": "Ít đường hay đường bình thường ạ?",
+          "promptZh": "少糖還是正常甜度？",
+          "answer": "Ít đường, cảm ơn em.",
+          "answerZh": "少糖，謝謝你。",
+          "alternatives": [
+            "Ít đường."
+          ],
+          "tip": "hay 在這裡是「還是」。"
+        },
+        {
+          "prompt": "Anh muốn tính tiền không ạ?",
+          "promptZh": "您要結帳嗎？（依句型編寫）",
+          "answer": "Em ơi, tính tiền hộ anh.",
+          "answerZh": "請幫我結帳。",
+          "alternatives": [
+            "Tính tiền hộ anh."
+          ],
+          "tip": "hộ anh 是幫我；與付款方式分開。"
+        }
+      ]
+    },
+    {
+      "id": "d-1022",
+      "title": "一起決定吃什麼",
+      "lesson": "1022",
+      "situation": "你和同輩朋友用 bạn／mình。這一輪練習先提案、再回應、最後做決定。",
+      "turns": [
+        {
+          "prompt": "Bạn muốn ăn gì?",
+          "promptZh": "你想吃什麼？",
+          "answer": "Mình muốn ăn phở. Còn bạn?",
+          "answerZh": "我想吃河粉。你呢？",
+          "alternatives": [
+            "Tôi muốn ăn phở. Còn bạn?"
+          ],
+          "tip": "muốn 是現在想要；回答後用 Còn bạn? 問回。"
+        },
+        {
+          "prompt": "Mình muốn ăn bún bò.",
+          "promptZh": "我想吃牛肉米線。",
+          "answer": "Vậy ăn bún bò nha.",
+          "answerZh": "那就吃牛肉米線吧。",
+          "alternatives": [],
+          "tip": "接住朋友提議後給出具體決定。"
+        },
+        {
+          "prompt": "Bạn uống gì?",
+          "promptZh": "你喝什麼？",
+          "answer": "Mình uống trà sữa.",
+          "answerZh": "我喝奶茶。",
+          "alternatives": [
+            "Tôi uống trà sữa."
+          ],
+          "tip": "以課堂飲料詞替換作練習。"
+        }
+      ]
+    },
+    {
+      "id": "d-1027",
+      "title": "介紹一位朋友",
+      "lesson": "1027",
+      "situation": "以下人物是虛構角色：你的朋友是老師、個性風趣。練第三人稱和身分句。",
+      "turns": [
+        {
+          "prompt": "Bạn ấy làm nghề gì?",
+          "promptZh": "他／她做什麼工作？",
+          "answer": "Bạn ấy là giáo viên.",
+          "answerZh": "他／她是老師。",
+          "alternatives": [],
+          "tip": "身分是名詞，因此用 là。"
+        },
+        {
+          "prompt": "Bạn ấy thế nào?",
+          "promptZh": "他／她是怎麼樣的人？（依句型編寫）",
+          "answer": "Bạn ấy vui tính.",
+          "answerZh": "他／她很風趣。",
+          "alternatives": [],
+          "tip": "vui tính 是形容個性，不加 là。"
+        },
+        {
+          "prompt": "Bạn có thường gặp bạn ấy không?",
+          "promptZh": "你常見他／她嗎？",
+          "answer": "Có, mình thường gặp bạn ấy.",
+          "answerZh": "有，我常見他／她。（依句型編寫）",
+          "alternatives": [],
+          "tip": "先回答肯否，再補完整資訊。"
+        }
+      ]
+    },
+    {
+      "id": "d-1103",
+      "title": "在咖啡店認識朋友",
+      "lesson": "1103",
+      "situation": "以同輩的 bạn／mình 互動。對方接受喝咖啡，但不想喝冰奶咖啡。",
+      "turns": [
+        {
+          "prompt": "Chào bạn!",
+          "promptZh": "你好！",
+          "answer": "Rất vui được gặp bạn.",
+          "answerZh": "很高興認識你。",
+          "alternatives": [],
+          "tip": "用自然問候接住開場。"
+        },
+        {
+          "prompt": "Bạn uống gì?",
+          "promptZh": "你喝什麼？",
+          "answer": "Mình uống cà phê sữa đá. Còn bạn?",
+          "answerZh": "我喝冰奶咖啡。那你呢？",
+          "alternatives": [],
+          "tip": "回答後把問題問回。"
+        },
+        {
+          "prompt": "Mình không muốn cà phê sữa đá.",
+          "promptZh": "我不想喝冰奶咖啡。",
+          "answer": "Vậy bạn muốn uống gì?",
+          "answerZh": "那你想喝什麼？",
+          "alternatives": [],
+          "tip": "不要在對方拒絕後重複同一個提案。"
+        }
+      ]
+    },
+    {
+      "id": "d-1105",
+      "title": "邀約後確認時間",
+      "lesson": "1105",
+      "situation": "同輩朋友邀你喝咖啡。這一輪選擇接受，並確認日期和地點。",
+      "turns": [
+        {
+          "prompt": "Tối nay bạn đi cà phê không?",
+          "promptZh": "你今晚要去喝咖啡嗎？",
+          "answer": "Được nha, mấy giờ?",
+          "answerZh": "好啊，幾點？（依句型編寫）",
+          "alternatives": [],
+          "tip": "接受之後再追問時間。"
+        },
+        {
+          "prompt": "Bảy giờ tối, được không?",
+          "promptZh": "晚上七點，可以嗎？",
+          "answer": "Được nha, đi cà phê ở đâu?",
+          "answerZh": "好啊，在哪裡喝咖啡？（依句型編寫）",
+          "alternatives": [],
+          "tip": "時間確認後，再補齊地點。"
+        },
+        {
+          "prompt": "Vẫn chỗ cũ.",
+          "promptZh": "還是原來的地方。",
+          "answer": "Được nha, xíu gặp.",
+          "answerZh": "好啊，等一下見。（依句型編寫）",
+          "alternatives": [],
+          "tip": "xíu gặp 表示稍後見，不是固定分鐘數。"
+        }
+      ]
+    },
+    {
+      "id": "d-1107",
+      "title": "臨時改約",
+      "lesson": "1107",
+      "situation": "朋友臨時星期六有事。你同意改星期日，但下午兩點太早，請改下午五點。",
+      "turns": [
+        {
+          "prompt": "Thứ bảy mình bận mất rồi. Chủ nhật được không?",
+          "promptZh": "我星期六有事了。星期日可以嗎？",
+          "answer": "Được nha, mấy giờ?",
+          "answerZh": "可以啊，幾點？（依句型編寫）",
+          "alternatives": [],
+          "tip": "先接住改約，再詢問時間。"
+        },
+        {
+          "prompt": "Hai giờ chiều, được không?",
+          "promptZh": "下午兩點，可以嗎？",
+          "answer": "Hai giờ chiều sớm quá. Năm giờ chiều, được không?",
+          "answerZh": "下午兩點太早了。下午五點，可以嗎？",
+          "alternatives": [],
+          "tip": "說明限制後提出另一個時間。"
+        },
+        {
+          "prompt": "Được nha, vẫn chỗ cũ.",
+          "promptZh": "好啊，還是原來的地方。",
+          "answer": "Được nha, Chủ nhật gặp.",
+          "answerZh": "好，那星期日見。（依句型編寫）",
+          "alternatives": [],
+          "tip": "結尾重複日期，減少誤會。"
+        }
+      ]
+    },
+    {
+      "id": "d-1109",
+      "title": "買外套與找零",
+      "lesson": "1109",
+      "situation": "你是男買家，以 em 自稱；女性賣家較年長，稱她 chị。虛構情境：原價 650,000 盾，最後以 400,000 盾成交，付 500,000 盾。",
+      "turns": [
+        {
+          "prompt": "Em muốn mua gì?",
+          "promptZh": "你想買什麼？",
+          "answer": "Em muốn mua một cái áo khoác.",
+          "answerZh": "我想買一件外套。（人稱替換練習）",
+          "alternatives": [],
+          "tip": "這一輪固定 em／chị，稱謂一致。"
+        },
+        {
+          "prompt": "Sáu trăm năm mươi ngàn nha em.",
+          "promptZh": "六十五萬喔。",
+          "answer": "Mắc quá, bớt cho em được không?",
+          "answerZh": "太貴了，可以算我便宜一點嗎？",
+          "alternatives": [],
+          "tip": "mắc quá 表價格太高；bớt cho em 請求減價。"
+        },
+        {
+          "prompt": "Chị bán cho em bốn trăm ngàn nha.",
+          "promptZh": "四十萬賣給你喔。",
+          "answer": "Chốt kèo.",
+          "answerZh": "成交。",
+          "alternatives": [
+            "Chốt kèo!"
+          ],
+          "tip": "接受 400,000 盾；下一回合已付 500,000 盾。"
+        },
+        {
+          "prompt": "Chị trả lại cho em năm mươi ngàn.",
+          "promptZh": "我找你五萬。（故意找錯的練習）",
+          "answer": "Không phải năm mươi ngàn, mà là một trăm ngàn.",
+          "answerZh": "不是五萬，而是十萬。",
+          "alternatives": [],
+          "tip": "500,000 − 400,000 = 100,000；trả lại 是找還錢，不是「不用找了」。"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "id": "p-1013-01",
+      "vi": "khỏe",
+      "zh": "健康、身體好",
+      "lesson": "1013",
+      "focus": "hỏi 聲調與整詞",
+      "tip": "先聽整詞，再慢速讀 khỏe；回放比較同一位示範者，不用男女音高差判斷正誤。"
+    },
+    {
+      "id": "p-1013-02",
+      "vi": "vậy",
+      "zh": "那麼、那樣",
+      "lesson": "1013",
+      "focus": "nặng 的短低感",
+      "tip": "沿用課堂較短、較低的提示；先讀 vậy，再接 Vậy cô nghỉ ngơi đi ạ.。這是練習目標，不代表你目前仍念錯。"
+    },
+    {
+      "id": "p-1014-01",
+      "vi": "ba",
+      "zh": "爸爸；三",
+      "lesson": "1014",
+      "focus": "平調",
+      "tip": "先穩定讀 ba，再和 bà 的降調比較；保留完整音節，不把兩個詞讀成同一個聲調。"
+    },
+    {
+      "id": "p-1014-02",
+      "vi": "bà",
+      "zh": "祖母／年長女性",
+      "lesson": "1014",
+      "focus": "降調",
+      "tip": "跟讀 bà 後接 Bà ăn cá không?；注意句尾問句不應抹掉詞本身聲調。"
+    },
+    {
+      "id": "p-1014-03",
+      "vi": "ăn",
+      "zh": "吃",
+      "lesson": "1014",
+      "focus": "n 收尾",
+      "tip": "保留 ăn 的 n 收尾，避免變成 am／âm 型；先短詞再接 Ba ăn cá.。"
+    },
+    {
+      "id": "p-1015-01",
+      "vi": "anh",
+      "zh": "哥哥／較年長男性稱謂",
+      "lesson": "1015",
+      "focus": "完整音節",
+      "tip": "沿用老師提示，將 anh 讀成一個完整音節，不拆成兩段；慢讀後再放回句子。"
+    },
+    {
+      "id": "p-1015-02",
+      "vi": "bánh xèo",
+      "zh": "越式煎餅",
+      "lesson": "1015",
+      "focus": "多音節詞",
+      "tip": "可依課堂先跟讀 xèo 的 eo 部分，再回到 xèo 和 bánh xèo；不要把拼讀練習當成正式說話節奏。"
+    },
+    {
+      "id": "p-1019-01",
+      "vi": "mười lăm",
+      "zh": "十五",
+      "lesson": "1019",
+      "focus": "mười 與 lăm",
+      "tip": "先連貫讀 mười，再接 lăm；15 使用 lăm，不是 mười năm。"
+    },
+    {
+      "id": "p-1019-02",
+      "vi": "Tôi có ô tô.",
+      "zh": "我有汽車。",
+      "lesson": "1019",
+      "focus": "O／Ô 與整句聲調",
+      "tip": "分別聽 có 與 ô tô 的母音，再合成整句；母音字母與聲調是不同的兩層。"
+    },
+    {
+      "id": "p-1020-01",
+      "vi": "hai mươi",
+      "zh": "二十",
+      "lesson": "1020",
+      "focus": "mươi 與 mười",
+      "tip": "交替聽 mười 和 hai mươi，先認數值再錄音；mươi 不是任意省略 mười 的聲調。"
+    },
+    {
+      "id": "p-1020-02",
+      "vi": "uống",
+      "zh": "喝",
+      "lesson": "1020",
+      "focus": "sắc 聲調",
+      "tip": "先照示範讀 uống，再接 Bạn uống gì?；保持詞的聲調，不只在整句末端抬高。"
+    },
+    {
+      "id": "p-1021-01",
+      "vi": "vở",
+      "zh": "筆記本",
+      "lesson": "1021",
+      "focus": "hỏi 與 nặng 對照",
+      "tip": "跟讀 vở，再聽 vợ（妻子）的對照；聲調不同就會換意思。自查時同時看詞義。"
+    },
+    {
+      "id": "p-1021-02",
+      "vi": "mẹ",
+      "zh": "媽媽",
+      "lesson": "1021",
+      "focus": "nặng 的收短感",
+      "tip": "沿用老師短、低的提示；先讀 mẹ，再接 Mẹ ăn mì không?，避免只拉長成降調。"
+    },
+    {
+      "id": "p-1022-01",
+      "vi": "muốn",
+      "zh": "想要",
+      "lesson": "1022",
+      "focus": "n 收尾",
+      "tip": "先讀 muốn，再接 muốn ăn；不要把結尾換成 rau muống 中的 ng 型收尾。"
+    },
+    {
+      "id": "p-1022-02",
+      "vi": "thích",
+      "zh": "喜歡",
+      "lesson": "1022",
+      "focus": "短促收尾",
+      "tip": "讀到詞尾就收住，不在後面補一個母音；再練 Tôi thích uống cà phê.。"
+    },
+    {
+      "id": "p-1022-03",
+      "vi": "mình",
+      "zh": "我；我們（依情境）",
+      "lesson": "1022",
+      "focus": "尾音與降調",
+      "tip": "把 mình 和 mìn 分開聽；先確認完整音節，再放回 Mình uống trà sữa.，不靠辨識拼字斷言發音正確。"
+    },
+    {
+      "id": "p-1027-01",
+      "vi": "người",
+      "zh": "人",
+      "lesson": "1027",
+      "focus": "ng 起音",
+      "tip": "先跟讀 người，再接 người Việt；保留 ng 的起音，與 n 起音分開比較。"
+    },
+    {
+      "id": "p-1027-02",
+      "vi": "nghề",
+      "zh": "職業",
+      "lesson": "1027",
+      "focus": "ng 起音延伸",
+      "tip": "把 người 的起音練習延伸到 nghề，再接 Bạn làm nghề gì?；先聽後錄，不憑文字規則硬猜。"
+    },
+    {
+      "id": "p-1027-03",
+      "vi": "bạn",
+      "zh": "朋友；你",
+      "lesson": "1027",
+      "focus": "nặng 與降調對照",
+      "tip": "比較 bạn（朋友）和 bàn（桌子）；沿用課堂短、低提示，避免拉成另一個詞。"
+    },
+    {
+      "id": "p-1029-01",
+      "vi": "Anh nói chậm một chút được không?",
+      "zh": "你可以說慢一點嗎？",
+      "lesson": "1029",
+      "focus": "長句分組",
+      "tip": "先分成 Anh nói chậm／một chút／được không，再恢復整句；目的在說得清楚、讓對話繼續。"
+    },
+    {
+      "id": "p-1031-01",
+      "vi": "Em đi cà phê với ai?",
+      "zh": "你跟誰去喝咖啡？",
+      "lesson": "1031",
+      "focus": "問詞與節奏",
+      "tip": "分成 Em đi cà phê／với ai，再連讀；先確認問的是同行者，不是地點。"
+    },
+    {
+      "id": "p-1103-01",
+      "vi": "Rất vui được gặp bạn.",
+      "zh": "很高興認識你。",
+      "lesson": "1103",
+      "focus": "自然問候",
+      "tip": "先慢速跟讀，再以舒服的速度完整說出；不要為了追趕示範而省掉 gặp 或 bạn。"
+    },
+    {
+      "id": "p-1105-01",
+      "vi": "Để mình xem đã nha.",
+      "zh": "讓我先看看喔。",
+      "lesson": "1105",
+      "focus": "回應的節奏",
+      "tip": "保留 xem đã，再接輕鬆的 nha；意思是先確認，不是已經答應。"
+    },
+    {
+      "id": "p-1107-01",
+      "vi": "Năm giờ chiều, được không?",
+      "zh": "下午五點，可以嗎？",
+      "lesson": "1107",
+      "focus": "時間聽辨與整句",
+      "tip": "分成 Năm giờ chiều／được không；先讓聽者辨認五點和下午，再練自然速度。"
+    },
+    {
+      "id": "p-1109-01",
+      "vi": "một trăm lẻ tám",
+      "zh": "一百零八",
+      "lesson": "1109",
+      "focus": "108 與 180",
+      "tip": "和 một trăm tám mươi（180）交替聽讀；先寫回數字，確認 lẻ 與 mươi 所在位置。"
+    },
+    {
+      "id": "p-1109-02",
+      "vi": "một triệu rưỡi",
+      "zh": "一百五十萬",
+      "lesson": "1109",
+      "focus": "大數位值",
+      "tip": "把 1,500,000 分成一百萬加半個百萬，再讀完整詞組；rưỡi 不固定等於五十。"
+    },
+    {
+      "id": "p-1109-03",
+      "vi": "Bạn nói lại số cuối được không?",
+      "zh": "你可以再說一次最後一個數字嗎？",
+      "lesson": "1109",
+      "focus": "聯絡資訊的重讀請求",
+      "tip": "分成 Bạn nói lại／số cuối／được không，再連成一句；練習不需要填入任何真實電話。"
+    }
+  ]
+}

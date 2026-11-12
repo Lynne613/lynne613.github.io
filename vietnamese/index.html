@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#184c3c"><meta name="description" content="把越南語課堂變成每天的練習：單字、句子重組、跟讀與情境對話。">
+  <title>Nói mỗi ngày · 越南語練習室</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml"><link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<a class="skip" href="#workspace">跳到練習</a>
+<div class="app-shell">
+  <aside class="rail">
+    <a class="brand" href="./" aria-label="越南語練習室首頁"><span class="brand-mark" lang="vi">n.</span><span>Nói mỗi ngày<small>越南語練習室</small></span></a>
+    <p class="rail-caption">每天一點，開口更自然。</p>
+    <nav class="mode-nav" aria-label="練習模式">
+      <button data-mode="vocabulary" class="active" aria-current="page"><span class="nav-icon">Aa</span><span>單字暖身<small>聽見、記住、說出來</small></span><span class="nav-arrow">↗</span></button>
+      <button data-mode="reorder"><span class="nav-icon">▤</span><span>句子重組<small>把學過的字連成句</small></span><span class="nav-arrow">↗</span></button>
+      <button data-mode="pronunciation"><span class="nav-icon">◉</span><span>發音練習<small>聽示範，錄下自己的聲音</small></span><span class="nav-arrow">↗</span></button>
+      <button data-mode="dialogue"><span class="nav-icon">↔</span><span>情境對話<small>輪到你，用越南語回應</small></span><span class="nav-arrow">↗</span></button>
+    </nav>
+    <div class="rail-bottom"><span class="tiny">YOUR LITTLE DAILY PRACTICE</span><p lang="vi">Từng chút một.</p><small>一步一步來。</small><button id="settings-open" class="settings-button">⚙ 語音與練習設定</button><a class="home-link" href="../">← 回個人網站</a></div>
+  </aside>
+  <main id="workspace" tabindex="-1">
+    <header class="topbar"><span class="eyebrow">VIETNAMESE / PRACTICE STUDIO</span><span class="save-state" id="save-state">進度儲存在這台裝置</span></header>
+    <section class="intro"><div><p id="mode-kicker" class="eyebrow green">01 / WORDS</p><h1 id="mode-title">讓今天的越南語，<br>從一個詞開始。</h1><p id="mode-description">先聽一遍，再想想意思。把記得的留下，把不熟的再練一次。</p></div><div class="today-badge"><span id="today-count">0</span><div>今日已練習<small>每次開口，都算數。</small></div></div></section>
+    <section class="toolbar" aria-label="題目篩選"><label>練習範圍<select id="lesson-filter"><option value="all">全部課堂</option></select></label><label class="review-toggle"><input type="checkbox" id="review-only"><span>只練待加強</span><span id="review-count" class="count">0</span></label><span id="pool-count" class="pool-count"></span></section>
+    <div class="practice-layout"><section class="practice-stage" id="exercise" aria-label="練習題目"><p>正在準備題庫…</p></section>
+      <aside class="companion"><section><p class="eyebrow">TODAY'S RHYTHM</p><h2>15 分鐘，<br>留一點給越南語。</h2><ol class="rhythm"><li><span>01</span><div>3 分鐘 · 單字暖身<small>先聽，再回想中文意思。</small></div></li><li><span>02</span><div>5 分鐘 · 排出句子<small>留意問句、稱謂與語序。</small></div></li><li><span>03</span><div>7 分鐘 · 開口回應<small>跟讀一句，再完成一段對話。</small></div></li></ol></section><section class="progress-note"><span class="eyebrow">你的練習足跡</span><div class="progress-number"><strong id="learned-count">0</strong><span id="learned-total">/ 0 詞</span></div><div class="progress-track"><i id="learned-bar"></i></div><small>標記為「記得了」的單字</small></section><section class="help-note"><span class="mini-spark">✳</span><p id="context-tip">不急著一次背完。先聽示範，自己說一次，再翻開答案。</p></section></aside></div>
+    <footer class="page-footer"><span>以 10/13–11/09 課堂筆記編寫 · 練習情境經整理改寫</span><button id="about-open">關於語音與資料</button></footer>
+  </main>
+</div>
+<dialog id="settings"><form method="dialog"><header><div><p class="eyebrow">MAKE IT YOURS</p><h2>語音與練習設定</h2></div><button value="close" class="icon-button" aria-label="關閉設定">×</button></header></form><div class="settings-content"><label>越南語示範聲音<select id="voice-select"><option value="">讀取聲音中…</option></select></label><p class="fine" id="voice-status"></p><label>朗讀速度 <output id="rate-label">0.85×</output><input type="range" id="speech-rate" min="0.6" max="1.1" step="0.05" value="0.85"></label><label class="consent"><input type="checkbox" id="recognition-consent"><span>啟用瀏覽器語音辨識<small>瀏覽器可能將聲音送至它的語音服務。每次仍需按下「語音回答」才會開始收音。</small></span></label><p class="fine">辨識結果只比較文字，不是音素或聲調評分。錄音回放僅在本頁暫存，離開題目即清除。示範聲音依裝置而異，可能使用語音服務。</p><div class="settings-actions"><button id="export-progress" class="button secondary">匯出練習紀錄</button><button id="reset-progress" class="text-button danger">清除本機進度</button></div><p class="fine">本頁不需要帳號或 API 金鑰。學習紀錄儲存在此瀏覽器，沒有跨裝置同步。<a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank" rel="noopener">語音支援說明 ↗</a></p></div></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<noscript><p>此練習需要 JavaScript。請在瀏覽器開啟 JavaScript 後重新載入。</p></noscript>
+<script type="module" src="./app.js"></script>
+</body></html>
